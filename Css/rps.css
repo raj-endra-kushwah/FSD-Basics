@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+.options
+{
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+button
+{
+    background-color: transparent;
+    border: none;
+}
+table thead{
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
