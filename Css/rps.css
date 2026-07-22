@@ -14,6 +14,10 @@ button
     background-color: transparent;
     border: none;
 }
+button:hover
+{
+    cursor: grab;
+}
 table thead{
     background-color: purple;
     color: white;
